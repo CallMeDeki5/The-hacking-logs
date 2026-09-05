@@ -1,11 +1,29 @@
 **Commands:**
 
+cd: change directory to input
+
+    ..: directory above
+    ~: home directory
+
 echo: Repeats your input
 
-whoami: prints your name
-  
 id: prints your uid and gid
-   *-un: prints username*
+   
+     -un: prints username
+
+ls: prints a list of all files and directories in working directory
+    -a: prints all files, including hidden ones
+    -l: prints a long version with additional details
+
+man: prints a manual for input command
+
+mkdir: create new directory
+
+pwd: prints working directory
+
+touch: create new empty file
+
+whoami: prints your name
 
 **Bandit:**
 
