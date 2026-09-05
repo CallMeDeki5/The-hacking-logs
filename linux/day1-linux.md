@@ -25,6 +25,8 @@ nano: text editor
 
 pwd: prints working directory
 
+ssh: connects to the SSH server using username@website -p port
+
 touch: create new empty file
 
 whoami: prints your name
