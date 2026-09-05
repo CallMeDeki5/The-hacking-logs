@@ -21,6 +21,8 @@ man: prints a manual for input command
 
 mkdir: create new directory
 
+nano: text editor
+
 pwd: prints working directory
 
 touch: create new empty file
