@@ -42,5 +42,6 @@ Learned how to control a terminal
 Learned how to use the ls function
 
 **Bandit 2:**
+Learned how to use cat function more extensively
 
 
