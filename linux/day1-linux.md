@@ -5,6 +5,8 @@ cd: change directory to input
     ..: directory above
     ~: home directory
 
+cp: copy input
+
 echo: Repeats your input
 
 id: prints your uid and gid
