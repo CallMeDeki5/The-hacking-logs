@@ -31,7 +31,16 @@ touch: create new empty file
 
 whoami: prints your name
 
-**Bandit:**
+**Bandit 0:**
 
+Learned how to use ssh correctly with usernames
+
+Learned how to control a terminal
+
+**Bandit 1:**
+
+Learned how to use the ls function
+
+**Bandit 2:**
 
 
